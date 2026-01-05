@@ -3,3 +3,7 @@ provided (you can change it if you like by entering the repo-id of the model fro
 for the query.
 
 To run this app, simple clone the repository, install the dependencies mentioned in requirements.txt and run main.py.
+
+Run this command to download the dependencies using pip:
+
+*pip install -r requirements.txt*

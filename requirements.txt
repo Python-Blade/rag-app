@@ -7,3 +7,5 @@ python-dotenv
 pypdf
 huggingface_hub
 langgraph
+langchain-text-splitters
+langchain-core
