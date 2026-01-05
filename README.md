@@ -6,4 +6,5 @@ To run this app, simple clone the repository, install the dependencies mentioned
 
 Run this command to download the dependencies using pip:
 
-*pip install -r requirements.txt*
+`pip install -r requirements.txt`
+
